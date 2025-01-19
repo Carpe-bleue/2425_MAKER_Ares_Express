@@ -29,18 +29,18 @@ Difficult ideas : A claw to move an object from the tracks, mapping with lidar, 
 
 # Planning :
 
-3d Model, 1st wagon : 23 janvier
-Printing 1st Wagon : 23-27 janvier
-PCB : 10 février
+- 3d Model, 1st wagon : 23 janvier
+- Printing 1st Wagon : 23-27 janvier
+- PCB : 10 février
 
-Vacation : Models for Head wagon and rails
+- Vacation : Models for Head wagon and rails
 
-1st rail (laser) : 3 mars
-Head wagon model : 10 mars
-Printing head Wagon : 13 mars
-Test of head wagon with PCB : 17 mars 
-Complete track (laser cut wood) : 20 mars-24 mars
-Soft (screen, LEDs, communication) : 27 mars - 4 avril
+- 1st rail (laser) : 3 mars
+- Head wagon model : 10 mars
+- Printing head Wagon : 13 mars
+- Test of head wagon with PCB : 17 mars 
+- Complete track (laser cut wood) : 20 mars-24 mars
+- Soft (screen, LEDs, communication) : 27 mars - 4 avril
 
 
 
