@@ -25,7 +25,7 @@ electromagnets to attach/detach wagons !
 Camera ?
 
 - details : angry eyebrows, ares logo, small characters ?
-Difficult ideas : A claw to move an object from the tracks, mapping with lidar, putting tracks before itself, Stations
+Difficult ideas : A claw to move an object from the tracks, mapping room with lidar, putting tracks before itself, Stations
 
 # Planning :
 
@@ -42,6 +42,17 @@ Difficult ideas : A claw to move an object from the tracks, mapping with lidar, 
 - Complete track (laser cut wood) : 20 mars-24 mars
 - Soft (screen, LEDs, communication) : 27 mars - 4 avril
 
+Module Hc-sr04 :
+![image](https://github.com/user-attachments/assets/a925a8d8-9199-42eb-8664-a73f615a713b)
+
+Module Hc-05 : 
+![image](https://github.com/user-attachments/assets/1200da35-9260-4e42-b8c6-684130bf0b72)
+
+Module Caméra ? :
+![image](https://github.com/user-attachments/assets/ee3affd3-ab2a-447f-b956-3f826d3f382e)
+
+Potentially useful regulator : 
+![image](https://github.com/user-attachments/assets/cc1db9b6-6843-4a70-9f42-05047eb68a1a)
 
 
 
