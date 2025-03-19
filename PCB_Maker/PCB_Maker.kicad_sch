@@ -11152,7 +11152,7 @@
 		)
 		(uuid "ccf25809-e42f-44aa-af32-1797ac882930")
 	)
-	(label "3.3V"
+	(label "+3.3V"
 		(at 69.85 74.93 270)
 		(fields_autoplaced yes)
 		(effects
