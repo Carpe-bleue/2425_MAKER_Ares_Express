@@ -1,4 +1,4 @@
-23137181801480856
+23137185652458516
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -63483,13 +63483,6 @@ Yellow 5381 Series LED
 2
 2
 Library_MAKER
-171023801
-<b>MagI³C-VDLM Variable Step Down LGA Module<br></b>Size : LGA-12EP, SMT<BR>LxWxH=10mm x 6mm x 3.1mm
-
-0
-13
-13
-Library_MAKER
 173013542
 
 
@@ -63498,6 +63491,13 @@ Library_MAKER
 3
 Library_MAKER
 Bitmap_bateau
+
+
+0
+0
+0
+Library_MAKER
+Bitmap_bateau_bis
 
 
 0
