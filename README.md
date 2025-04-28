@@ -1,6 +1,8 @@
 # 2425_MAKER_Ares_Express
 Depository for the "Ares Express" project, within the framework of the Maker option of ENSEA led by M.Papazoglou
 
+Video récapitulative : https://www.youtube.com/watch?v=NGvs9T8YtXU
+
 # Description
 The idea of this project is to build a miniature train on rails. It would integrate features like LEDs, sound, moving parts, screen(s), storage capacity, and remote controlled.
 The PCB and motors would be placed in the head Wagon in the front and other wagons would be attached to it and could be replaced easily so we would switch them depending what we want the train to do (adding wagons that can contain things or just fun or decorative wagons).
