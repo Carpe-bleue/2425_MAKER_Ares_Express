@@ -9,6 +9,9 @@ The PCB and motors would be placed in the head Wagon in the front and other wago
 ![Screenshot from 2025-01-19 17-37-25](https://github.com/user-attachments/assets/2ac03007-483f-41f8-a5dd-b26ceae9990a)
 from the following video : "https://youtu.be/WkL9zbtfKDo?si=UJvP77D1sXWMVc81"
 
+# For now :
+https://github.com/user-attachments/assets/c41e23c4-729e-4bb9-a937-4c54bc4e76e5
+
 
 # Ideas
 
